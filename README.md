@@ -2,7 +2,7 @@
 README
 ======================
 
-= 概要
+# 概要
 
 本リポジトリは四国自然歩道（四国のみち）のルートをGPXとして提供しようとするプロジェクトです。
 
@@ -10,13 +10,13 @@ http://www.env.go.jp/nature/nats/shizenhodo/sikoku/
 
 発起人が愛媛から始めています。皆さんのコントリビューション歓迎します。
 
-= 四国のみちについて
+# 四国のみちについて
 
 環境省と国土交通省がそれぞれ定義している自然歩道です。ルートが若干異なります。
 
 本プロジェクトは[環境省ルート](http://www.env.go.jp/nature/nats/shizenhodo/sikoku/)をベースにします。
 
-== 各県のルートについて
+# 各県のルートについて
 
 以下のサイトから情報が入手できる。
 
@@ -26,7 +26,7 @@ http://www.env.go.jp/nature/nats/shizenhodo/sikoku/
 * [愛媛県](http://www.pref.ehime.jp/h15800/e-shizen_k/shikoku/index.html)
 * [香川県](http://www.pref.kagawa.jp/kankyo/shizen/you-fo/you-fo/index.html)
 
-= ルートについて
+# ルートについて
 
 各県が提供している四国のみちコースマップを元に、ツールを使ってコースをプロットし、GPXとして出力します。
 
@@ -39,8 +39,8 @@ Google Mapでは山道が表示されないため、プロットはほぼ不可�
 * [TrailNote](http://trail-note.com)
     - GPX
 
-GPXとKMLの変換は下記のサービスを使うとできます。
+GPXとKMLの変換は[GPX2KML](http://gpx2kml.com)を使うと実現できます。
 
-* [GPX2KML](http://gpx2kml.com)
+また、[GPSBabel](http://www.gpsbabel.org/)を使うとGPX<->KMLの相互変換ができます（その他の多種フォーマット間の変換が可能）
 
 
