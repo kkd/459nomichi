@@ -4,6 +4,7 @@ require 'rake/clean'
 require 'rake/packagetask'
 require 'yaml'
 require 'time'
+require_relative 'lib/gpx2kml'
 
 SOURCE = "."
 DIST = "dist"
@@ -80,12 +81,20 @@ task :init_kml => [
 
 
 rule ".kml" => [->(f){source_for_kml(f)},"dist"] do |t|
-	sh "#{CONFIG['gpsbabel']} -i gpx -o kml #{t.source} #{t.name}"
+	# sh "#{CONFIG['gpsbabel']} -r -w -i gpx -f #{t.source} -x duplicate,shortname,correct -o kml,points=0,track=0,trackdirection=1 -F #{t.name}"
+	convert t.source, t.name
 end
 
 # rule ".gpx" => [->(f){source_for_gpx(f)},"dist"] do |t|
 # 	sh "#{CONFIG['gpsbabel']} -i kml -o gpx #{t.source} #{t.name}"
 # end
+
+def convert(gpx_file, kml_file)
+	gpx2kml = Gpx2Kml.new(gpx_file, kml_file)
+	gpx2kml.set_up
+	gpx2kml.build 
+	gpx2kml.tear_down
+end
 
 def source_for_kml(kml_file)
 	GPX_FILES.detect do |f|
