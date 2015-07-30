@@ -3,6 +3,7 @@ require 'nokogiri'
 class Gpx2Kml
 	attr_accessor :gpx_file
 	attr_accessor :kml_file
+	attr_accessor :kml
 
 	RANGE 		= 500
 	TILT 			= 45
