@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creater="TrailNote" xmlns="http://www.topografix.com/GPX/1/1">
   <wpt lat="33.945248" lon="132.852936">
-    <name><![CDATA[高縄寺(K15始点)]]></name>
+    <name><![CDATA[高縄寺]]></name>
     <ele>918.46</ele>
   </wpt>
   <wpt lat="33.944283" lon="132.922562">
-    <name><![CDATA[木地(K15終点/K16始点)]]></name>
+    <name><![CDATA[木地]]></name>
     <ele>487.10</ele>
   </wpt>
-  <wpt lat="33.902612" lon="132.819664">
-    <name><![CDATA[K14 start]]></name>
-    <ele>  0.00</ele>
-  </wpt>
-  <wpt lat="33.968941" lon="132.948866">
-    <name><![CDATA[K17 start]]></name>
-    <ele>  0.00</ele>
-  </wpt>
   <wpt lat="34.013134" lon="132.977920">
-    <name><![CDATA[K18 start]]></name>
+    <name><![CDATA[仙遊寺]]></name>
     <ele>  0.00</ele>
   </wpt>
   <wpt lat="33.937244" lon="132.916870">
@@ -28,9 +20,37 @@
     <name><![CDATA[北三方ヶ森休憩地]]></name>
     <ele>965.33</ele>
   </wpt>
+  <wpt lat="33.945274" lon="132.852945">
+    <name><![CDATA[高縄寺]]></name>
+    <ele>  0.00</ele>
+  </wpt>
+  <wpt lat="33.902612" lon="132.819664">
+    <name><![CDATA[菅沢]]></name>
+    <ele>  0.00</ele>
+  </wpt>
+  <wpt lat="33.968925" lon="132.948807">
+    <name><![CDATA[下木地]]></name>
+    <ele>279.32</ele>
+  </wpt>
+  <wpt lat="34.013134" lon="132.977920">
+    <name><![CDATA[仙遊寺]]></name>
+    <ele>  0.00</ele>
+  </wpt>
+  <wpt lat="34.032799" lon="132.969070">
+    <name><![CDATA[大須木バス停]]></name>
+    <ele> 24.77</ele>
+  </wpt>
+  <wpt lat="33.941525" lon="132.944321">
+    <name><![CDATA[楢原山]]></name>
+    <ele>990.78</ele>
+  </wpt>
+  <wpt lat="33.947689" lon="132.962021">
+    <name><![CDATA[上木地]]></name>
+    <ele>454.61</ele>
+  </wpt>
   <trk>
     <name><![CDATA[四国のみち 愛媛 環15 北三方ヶ森へのみち]]></name>
-    <number>10</number>
+    <number>1</number>
     <trkseg>
       <trkpt lat="33.945248" lon="132.852936">
         <ele>918.46</ele>
@@ -156,7 +176,7 @@
         <ele>755.53</ele>
       </trkpt>
       <trkpt lat="33.947556" lon="132.863159">
-        <ele>757.83</ele>
+        <ele>760.74</ele>
       </trkpt>
       <trkpt lat="33.947968" lon="132.863281">
         <ele>753.36</ele>
@@ -411,7 +431,7 @@
         <ele>808.20</ele>
       </trkpt>
       <trkpt lat="33.948273" lon="132.875275">
-        <ele>816.83</ele>
+        <ele>815.62</ele>
       </trkpt>
       <trkpt lat="33.948322" lon="132.875473">
         <ele>821.99</ele>
@@ -603,7 +623,7 @@
         <ele>950.55</ele>
       </trkpt>
       <trkpt lat="33.950462" lon="132.889938">
-        <ele>951.66</ele>
+        <ele>952.60</ele>
       </trkpt>
       <trkpt lat="33.950405" lon="132.890106">
         <ele>952.64</ele>
@@ -843,7 +863,7 @@
         <ele>833.28</ele>
       </trkpt>
       <trkpt lat="33.937916" lon="132.911224">
-        <ele>824.88</ele>
+        <ele>825.95</ele>
       </trkpt>
       <trkpt lat="33.938221" lon="132.912109">
         <ele>807.22</ele>

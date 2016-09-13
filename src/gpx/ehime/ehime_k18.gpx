@@ -1,31 +1,151 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creater="TrailNote" xmlns="http://www.topografix.com/GPX/1/1">
-  <wpt lat="33.945274" lon="132.852945">
-    <name><![CDATA[K15 start]]></name>
-    <ele>  0.00</ele>
-  </wpt>
-  <wpt lat="33.944428" lon="132.922565">
-    <name><![CDATA[K16 start]]></name>
-    <ele>  0.00</ele>
+  <wpt lat="34.013336" lon="132.976929">
+    <name><![CDATA[仙遊寺休憩地]]></name>
+    <ele>264.20</ele>
   </wpt>
   <wpt lat="33.902612" lon="132.819664">
-    <name><![CDATA[K14 start]]></name>
+    <name><![CDATA[菅沢]]></name>
     <ele>  0.00</ele>
   </wpt>
-  <wpt lat="33.968941" lon="132.948866">
-    <name><![CDATA[K17 start]]></name>
-    <ele>  0.00</ele>
+  <wpt lat="33.968925" lon="132.948807">
+    <name><![CDATA[下木地]]></name>
+    <ele>279.32</ele>
   </wpt>
-  <wpt lat="34.013134" lon="132.977920">
-    <name><![CDATA[K18 start]]></name>
-    <ele>  0.00</ele>
+  <wpt lat="34.013424" lon="132.977707">
+    <name><![CDATA[仙遊寺]]></name>
+    <ele>250.88</ele>
+  </wpt>
+  <wpt lat="34.032799" lon="132.969070">
+    <name><![CDATA[大須木バス停]]></name>
+    <ele> 24.77</ele>
+  </wpt>
+  <wpt lat="33.980808" lon="132.932556">
+    <name><![CDATA[鈍川温泉休憩地]]></name>
+    <ele>179.74</ele>
+  </wpt>
+  <wpt lat="33.990398" lon="132.964294">
+    <name><![CDATA[奈良之木]]></name>
+    <ele>196.63</ele>
+  </wpt>
+  <wpt lat="33.997784" lon="132.972366">
+    <name><![CDATA[窓の峠]]></name>
+    <ele>308.42</ele>
+  </wpt>
+  <wpt lat="33.982166" lon="133.054016">
+    <name><![CDATA[医王池休憩地]]></name>
+    <ele> 27.72</ele>
+  </wpt>
+  <wpt lat="33.981117" lon="133.055435">
+    <name><![CDATA[休暇村入口バス停]]></name>
+    <ele> 32.62</ele>
+  </wpt>
+  <wpt lat="33.982464" lon="133.061386">
+    <name><![CDATA[休暇村瀬戸内東予]]></name>
+    <ele> 67.31</ele>
+  </wpt>
+  <wpt lat="33.985935" lon="133.061005">
+    <name><![CDATA[石風呂休憩地]]></name>
+    <ele> 38.33</ele>
+  </wpt>
+  <wpt lat="34.016666" lon="133.047379">
+    <name><![CDATA[桜井休憩地]]></name>
+    <ele>  1.44</ele>
+  </wpt>
+  <wpt lat="34.030037" lon="133.036530">
+    <name><![CDATA[唐子浜バス停]]></name>
+    <ele>  4.40</ele>
+  </wpt>
+  <wpt lat="34.016479" lon="133.042099">
+    <name><![CDATA[志島ケ原]]></name>
+    <ele>  0.65</ele>
+  </wpt>
+  <wpt lat="33.996540" lon="133.059052">
+    <name><![CDATA[虎ケ鼻]]></name>
+    <ele>  3.63</ele>
+  </wpt>
+  <wpt lat="33.989559" lon="133.061264">
+    <name><![CDATA[石風呂]]></name>
+    <ele>  6.18</ele>
+  </wpt>
+  <wpt lat="34.030041" lon="133.015488">
+    <name><![CDATA[国分休憩地]]></name>
+    <ele> 10.60</ele>
+  </wpt>
+  <wpt lat="34.025360" lon="133.024963">
+    <name><![CDATA[国分寺バス停]]></name>
+    <ele>  9.64</ele>
+  </wpt>
+  <wpt lat="34.020329" lon="132.987732">
+    <name><![CDATA[吉祥寺]]></name>
+    <ele> 40.24</ele>
   </wpt>
   <trk>
     <name><![CDATA[四国のみち 愛媛 環18 国分・唐子浜をいくみち]]></name>
-    <number>13</number>
+    <number>2</number>
     <trkseg>
       <trkpt lat="34.013125" lon="132.977926">
         <ele>243.41</ele>
+      </trkpt>
+      <trkpt lat="34.013229" lon="132.977890">
+        <ele>244.75</ele>
+      </trkpt>
+      <trkpt lat="34.013268" lon="132.977966">
+        <ele>240.58</ele>
+      </trkpt>
+      <trkpt lat="34.013248" lon="132.978058">
+        <ele>238.70</ele>
+      </trkpt>
+      <trkpt lat="34.013283" lon="132.978134">
+        <ele>235.30</ele>
+      </trkpt>
+      <trkpt lat="34.013363" lon="132.978119">
+        <ele>234.37</ele>
+      </trkpt>
+      <trkpt lat="34.013412" lon="132.978165">
+        <ele>234.33</ele>
+      </trkpt>
+      <trkpt lat="34.013447" lon="132.978287">
+        <ele>227.70</ele>
+      </trkpt>
+      <trkpt lat="34.013481" lon="132.978439">
+        <ele>220.80</ele>
+      </trkpt>
+      <trkpt lat="34.013542" lon="132.978546">
+        <ele>217.65</ele>
+      </trkpt>
+      <trkpt lat="34.013638" lon="132.978592">
+        <ele>219.51</ele>
+      </trkpt>
+      <trkpt lat="34.013664" lon="132.978683">
+        <ele>214.95</ele>
+      </trkpt>
+      <trkpt lat="34.013668" lon="132.978760">
+        <ele>210.77</ele>
+      </trkpt>
+      <trkpt lat="34.013691" lon="132.978851">
+        <ele>207.39</ele>
+      </trkpt>
+      <trkpt lat="34.013790" lon="132.978958">
+        <ele>199.93</ele>
+      </trkpt>
+      <trkpt lat="34.013870" lon="132.979019">
+        <ele>202.32</ele>
+      </trkpt>
+      <trkpt lat="34.013916" lon="132.979126">
+        <ele>197.89</ele>
+      </trkpt>
+      <trkpt lat="34.013950" lon="132.979233">
+        <ele>195.48</ele>
+      </trkpt>
+      <trkpt lat="34.013981" lon="132.979324">
+        <ele>194.19</ele>
+      </trkpt>
+      <trkpt lat="34.013958" lon="132.979431">
+        <ele>193.12</ele>
+      </trkpt>
+      <trkpt lat="34.013977" lon="132.979507">
+        <ele>189.67</ele>
       </trkpt>
       <trkpt lat="34.013925" lon="132.979524">
         <ele>191.82</ele>
@@ -35,6 +155,9 @@
       </trkpt>
       <trkpt lat="34.014090" lon="132.979926">
         <ele>177.11</ele>
+      </trkpt>
+      <trkpt lat="34.014553" lon="132.979935">
+        <ele>168.48</ele>
       </trkpt>
       <trkpt lat="34.015179" lon="132.979873">
         <ele>165.05</ele>

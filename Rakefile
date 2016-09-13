@@ -4,6 +4,7 @@ require 'rake/clean'
 require 'rake/packagetask'
 require 'yaml'
 require 'time'
+require 'bundler'
 require_relative 'lib/gpx2kml'
 
 SOURCE = "."
@@ -48,6 +49,14 @@ Rake::PackageTask.new(PROJECT_NAME, VERSION) do |p|
 	p.package_files.exclude("#{DIST}")
 	p.need_zip = true
 end
+
+desc "Bundle install."
+task :bundle_install do |t|
+	Bundler.with_clean_env do 
+		sh "bundle install --path vendor/bundle"
+	end
+end
+
 
 desc "Default task is all_g2k."
 task :default => :all_g2k

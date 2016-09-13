@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gpx version="1.1" creater="TrailNote" xmlns="http://www.topografix.com/GPX/1/1">
+  <wpt lat="33.837716" lon="133.111274">
+    <name><![CDATA[スタート地点（横峰寺）]]></name>
+    <ele>738.59</ele>
+  </wpt>
+  <wpt lat="33.876838" lon="133.099548">
+    <name><![CDATA[香園寺奥の院]]></name>
+    <ele> 87.69</ele>
+  </wpt>
+  <wpt lat="33.877693" lon="133.099054">
+    <name><![CDATA[奥の院休憩地]]></name>
+    <ele> 83.62</ele>
+  </wpt>
+  <wpt lat="33.893930" lon="133.104225">
+    <name><![CDATA[第61番香園寺]]></name>
+    <ele> 17.54</ele>
+  </wpt>
+  <wpt lat="33.897341" lon="133.115298">
+    <name><![CDATA[第62番宝寿寺]]></name>
+    <ele> 14.51</ele>
+  </wpt>
+  <wpt lat="33.893520" lon="133.116907">
+    <name><![CDATA[近藤篤山旧邸]]></name>
+    <ele> 23.92</ele>
+  </wpt>
+  <wpt lat="33.893663" lon="133.119965">
+    <name><![CDATA[終点（旧西条市旧小松町境界）]]></name>
+    <ele> 23.59</ele>
+  </wpt>
+  <wpt lat="33.888479" lon="133.098850">
+    <name><![CDATA[大谷池]]></name>
+    <ele> 57.78</ele>
+  </wpt>
   <trk>
-    <number>7</number>
+    <number>1</number>
     <trkseg>
       <trkpt lat="33.837719" lon="133.111267">
         <ele>738.59</ele>
